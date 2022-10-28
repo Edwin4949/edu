@@ -1,0 +1,19 @@
+D:\employee\Business Logic Layer\bin\Debug\net6.0\Business Logic Layer.deps.json
+D:\employee\Business Logic Layer\bin\Debug\net6.0\Business Logic Layer.runtimeconfig.json
+D:\employee\Business Logic Layer\bin\Debug\net6.0\Business Logic Layer.dll
+D:\employee\Business Logic Layer\bin\Debug\net6.0\Business Logic Layer.pdb
+D:\employee\Business Logic Layer\bin\Debug\net6.0\ModelLayer.dll
+D:\employee\Business Logic Layer\bin\Debug\net6.0\Repository Layer.dll
+D:\employee\Business Logic Layer\bin\Debug\net6.0\ModelLayer.pdb
+D:\employee\Business Logic Layer\bin\Debug\net6.0\Repository Layer.pdb
+D:\employee\Business Logic Layer\obj\Debug\net6.0\Business Logic Layer.csproj.AssemblyReference.cache
+D:\employee\Business Logic Layer\obj\Debug\net6.0\Business Logic Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\employee\Business Logic Layer\obj\Debug\net6.0\Business Logic Layer.AssemblyInfoInputs.cache
+D:\employee\Business Logic Layer\obj\Debug\net6.0\Business Logic Layer.AssemblyInfo.cs
+D:\employee\Business Logic Layer\obj\Debug\net6.0\Business Logic Layer.csproj.CoreCompileInputs.cache
+D:\employee\Business Logic Layer\obj\Debug\net6.0\Business Logic Layer.csproj.CopyComplete
+D:\employee\Business Logic Layer\obj\Debug\net6.0\Business Logic Layer.dll
+D:\employee\Business Logic Layer\obj\Debug\net6.0\refint\Business Logic Layer.dll
+D:\employee\Business Logic Layer\obj\Debug\net6.0\Business Logic Layer.pdb
+D:\employee\Business Logic Layer\obj\Debug\net6.0\Business Logic Layer.genruntimeconfig.cache
+D:\employee\Business Logic Layer\obj\Debug\net6.0\ref\Business Logic Layer.dll

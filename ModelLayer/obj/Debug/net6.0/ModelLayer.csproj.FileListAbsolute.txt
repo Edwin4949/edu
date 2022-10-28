@@ -1,0 +1,14 @@
+D:\employee\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+D:\employee\ModelLayer\bin\Debug\net6.0\ModelLayer.runtimeconfig.json
+D:\employee\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\employee\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\employee\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.AssemblyReference.cache
+D:\employee\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\employee\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+D:\employee\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+D:\employee\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+D:\employee\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+D:\employee\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+D:\employee\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+D:\employee\ModelLayer\obj\Debug\net6.0\ModelLayer.genruntimeconfig.cache
+D:\employee\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll
